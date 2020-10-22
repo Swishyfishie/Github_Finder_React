@@ -67,3 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Github_Finder_React
+Project created under Brad Traversy's React Udemy Course. Any changes that are different from the original project, are mine.
